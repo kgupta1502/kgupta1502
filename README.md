@@ -37,3 +37,12 @@ This space showcases my technical projects, models, and experiments that combine
 | [🔗 Human Emotion Recognition](https://github.com/kgupta1502/Human_Emotion) | Built a deep learning model to recognize human emotions from facial expressions using Logistic Regression. |
 
 ---
+
+## 📫 Let's Connect
+
+- 📧 Email: [zda23b011@iitmz.ac.in]
+- 🔗 LinkedIn :[https://www.linkedin.com/in/krishna-gupta1502/]
+  
+---
+
+> *“Passionate about using math, code, and data to solve impactful problems.”*
