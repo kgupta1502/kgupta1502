@@ -20,3 +20,13 @@ This space showcases my technical projects, models, and experiments that combine
 - **Other Skills**: Statistical Analysis, Data Cleaning, Communication, Problem-Solving  
 
 ---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [🔗 CODING-SAMURAI](https://github.com/kgupta1502/CODING-SAMURAI) | A curated set of coding challenges and solutions covering algorithms, data structures, and problem-solving techniques. |
+| [🔗 Route Optimization](https://github.com/kgupta1502/Route-Optimization-) | Developed a route planning and optimization system using real-world geospatial data to improve delivery efficiency. |
+| [🔗 Human Emotion Recognition](https://github.com/kgupta1502/Human_Emotion) | Built a deep learning model to recognize human emotions from facial expressions using Logistic Regression. |
+
+---
