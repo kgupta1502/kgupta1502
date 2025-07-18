@@ -12,3 +12,11 @@ This space showcases my technical projects, models, and experiments that combine
 - 📦 **Supply Chain, Operations, and Logistics Analytics**
 
 ---
+## 🛠️ Technical Skillset
+
+- **Languages & Tools**: Python, GNU Octave, SQL, Excel  
+- **Visualization**: Matplotlib, Seaborn  
+- **Optimization**: Linear Programming, Integer Programming, Simulation, Heuristics  
+- **Other Skills**: Statistical Analysis, Data Cleaning, Communication, Problem-Solving  
+
+---
