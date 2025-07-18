@@ -21,6 +21,13 @@ This space showcases my technical projects, models, and experiments that combine
 
 ---
 
+## 📚 Academic Background
+
+- 🎓 BS in Data Science and Artificial Intelligence, **IIT Madras Zanzibar Campus**
+- 📌 Focus Areas: Optimization, Statistics, Data Science, Machine Learning and Operations Research
+- 🧠 Strong foundation in Applied Mathematics & Problem Solving
+
+---
 ## 📂 Featured Projects
 
 | Project | Description |
